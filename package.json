@@ -1,10 +1,10 @@
 {
 	"name": "dockernize",
-	"version": "1.0.21-alpha",
+	"version": "1.0.23-alpha",
 	"description": "A better way to commiunicate with docker engine using NodeJS.",
 	"main": "lib/Dockernize",
 	"author": "Shyamin Ayesh",
-	"license": "GPL-3.0-or-later",
+	"license": "MIT",
 	"repository": "github:avanciro/dockernize",
 	"dependencies": {
 		"request": "^2.88.0"
